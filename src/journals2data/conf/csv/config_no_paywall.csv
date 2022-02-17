@@ -1,0 +1,11 @@
+URL;language;scrap_frequency;output_filepath
+https://eu.usatoday.com/news/;en;15;
+https://edition.cnn.com/;en;15;
+https://www.nasdaq.com/news-and-insights;en;30;
+https://finance.yahoo.com/;en;10;
+https://www.bbc.com/;en;15;
+https://www.dailymail.co.uk/;en;15;
+https://www.express.co.uk/;en;30;
+https://www.gamespot.com/;en;20;
+https://www.theguardian.com/;en;20;
+https://www.20minutes.fr/;fr;20;

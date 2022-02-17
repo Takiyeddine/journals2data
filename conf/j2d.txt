@@ -1,0 +1,4 @@
+name: j2d
+channels:
+  - defaults
+prefix: C:\Users\TAKI\anaconda3\envs\j2d

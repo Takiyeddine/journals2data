@@ -1,0 +1,396 @@
+URL : https://www.wsj.com/articles/novavax-covid-19-vaccine-is-90-effective-in-key-study-11623664800?mod=hp_lead_pos3
+
+
+=======
+Title:Novavax Covid-19 Vaccine Is 90% Effective in Key Study
+Texte
+An experimental Covid-19 vaccine from Novavax Inc. NVAX 0.03% was 90.4% effective at preventing symptomatic disease in adults in a large clinical trial, the company said, results that move the shot a step closer to global use.
+
+The 29,960-person study conducted in the U.S. and Mexico also found that the vaccine was similarly effective against newer coronavirus strains, especially the alpha variant now dominant in the U.S., Novavax said.
+
+The vaccine, given in two doses three weeks apart, was also generally safe and well tolerated in the study, the company said.
+
+“Our vaccine works very well even though the virus has mutated significantly,” said Dr. Gregory Glenn, Novavax’s president of research and development.
+
+Altogether, the results suggest Novavax’s vaccine is on track to become the fourth authorized for use in the U.S. Yet Novavax executives said the regulatory clearances are months away because the company still needs to finish preparing manufacturing.
+
+Novavax has said it expects more than 2 billion doses of its vaccine will be produced annually when the company and its manufacturing partners reach full capacity. Photo: T.J. Kirkpatrick for The Wall Street Journal
+
+If permitted by regulators, the shot could add a much-needed boost to global efforts to vaccinate people against the coronavirus, which has revealed growing disparities between developed and developing countries.
+
+Regulatory clearance would infuse a new supply of doses. The company has said it expects more than two billion doses of its vaccine will be produced annually when the company and its manufacturing partners reach full capacity.
+
+The shots also can be stored at normal refrigerator temperatures, averting the need for the freezers required for some other Covid-19 vaccines.
+
+Novavax Chief Executive Stanley Erck said the vaccine is likely to become available first in low- to middle-income countries outside the U.S. through the international Covax initiative, possibly by the end of September.
+
+The company, with manufacturing partners, has pledged to deliver about 1.1 billion doses of the vaccine globally through Covax.
+
+STAY INFORMED Get a coronavirus briefing six days a week, and a weekly Health newsletter once the crisis abates: Sign up here.
+
+“At least in the foreseeable future, we’re going to have a bigger impact” outside the U.S., Mr. Erck said in an interview.
+
+Novavax, of Gaithersburg, Md., said it plans to request the vaccine’s authorization in the U.S., U.K. and other countries during the third quarter.
+
+Despite the study results, Novavax said it needs much of that time to ensure that its manufacturing processes meet regulatory standards.
+
+Related Video As more U.S. adults get their Covid-19 vaccines, a variety of side effects are emerging. WSJ’s Daniela Hernandez speaks with an infectious disease specialist on what is common, what isn’t and when to seek medical attention. Photo: Associated Press
+
+Novavax has experienced various delays in developing and manufacturing its vaccine. In May, the company said shortages in raw materials had caused production delays that would push back targets for reaching peak manufacturing capacity.
+
+In the U.S., the U.S. Food and Drug Administration plans to take 30 days to review the manufacturing-quality data before Novavax may formally request an authorization of use, Mr. Erck said.
+
+The company has a contract with the federal government to deliver 110 million doses for use in the U.S. Mr. Erck said the company doesn’t know if the government will decide to distribute them in the U.S. or contribute them to Covax and other countries.
+
+The vaccine would be the fourth authorized in the U.S., after shots developed by Pfizer Inc. with its partner BioNTech SE, Moderna Inc. and Johnson & Johnson.
+
+The overall efficacy of the Novavax shot in its study approaches the efficacy of at least 94% demonstrated in large trials last year for the Pfizer-BioNTech and Moderna vaccines.
+
+The Novavax shot’s efficacy is higher than the 66% overall efficacy shown by J&J’s vaccine in a large trial.
+
+The Pfizer and Moderna trials were conducted before more transmissible variants of the coronavirus spread significantly, while the J&J and Novavax trials were conducted while the variants were spreading.
+
+Novavax said 82% of the subjects in the study who got symptomatic Covid-19—and for whom genetic-sequence data were available—were infected with newer variants.
+
+Novavax previously reported positive results from a separate, 15,000-person study of its vaccine in the U.K. There, the vaccine was 89.3% effective at protecting people from Covid-19, including many infected with the alpha variant of the coronavirus.
+
+The FDA usually wants to see data from a trial conducted at least partly in the U.S. before deciding whether to authorize a medicine.
+
+A regulatory go-ahead would be a milestone for Novavax, a small company in the Washington, D.C., suburbs that has never won approval for a vaccine. Novavax shares were down slightly at $209.40 in late-morning trading Monday, after rising in earlier trading.
+
+Novavax’s vaccine contains proteins resembling the “spike” proteins found on the surface of the coronavirus and are supposed to trigger an immune response to the virus once injected.
+
+Novavax manufactures the proteins in insect cells.
+
+The vaccine also contains an adjuvant, a substance designed to enhance immune responses. Novavax’s adjuvant is derived from the bark of an evergreen tree native to Chile.
+
+This approach of combining a protein with an adjuvant is similar to that of vaccines against other diseases, including GlaxoSmithKline PLC’s shingles vaccine, Shingrix.
+
+It is a different mechanism from the Pfizer-BioNTech and Moderna Covid-19 vaccines, which use gene-based technologies, and those from Johnson & Johnson and AstraZeneca, which use viral-vector technology.
+
+How Novavax's Vaccine Works
+
+Traditional vaccines use the actual virus to generate an immune response. Novavax's relies on a synthesized version of the coronavirus's outer spike proteins, which are what antibodies use to recognize the virus. Scientists make the protein by genetically modifying an unrelated insect virus, a baculovirus, and then using that modified virus to infect cells cloned from the armyworm insect. Coronavirus spike protein Baculovirus Modified virus The vaccine is made from a stabilized form of the coronavirus spike protein, which is anchored in a lipid nanoparticle and then injected into the body. The purified protein antigens in the vaccine can't replicate and can't cause Covid-19. The vaccine also contains a compound that enhances desired immune system responses to the vaccine. Stabilized spike protein Vaccine-generated antibody response Scientists make the protein by genetically modifying an unrelated insect virus, a baculovirus, and then using that modified virus to infect cells cloned from the armyworm insect. Traditional vaccines use the actual virus to generate an immune response. Novavax's relies on a synthesized version of the coronavirus's outer spike proteins, which are what antibodies use to recognize the virus Coronavirus spike protein Baculovirus Modified virus The vaccine is made from a stabilized form of the coronavirus spike protein, which is anchored in a lipid nanoparticle and then injected into the body. The purified protein antigens in the vaccine can't replicate and can't cause Covid-19. The vaccine also contains a compound that enhances desired immune system responses to the vaccine. Stabilized spike protein Vaccine-generated antibody response Traditional vaccines use the actual virus to generate an immune response. Novavax's relies on a synthesized version of the coronavirus's outer spike proteins, which are what antibodies use to recognize the virus Scientists make the protein by genetically modifying an unrelated insect virus, a baculovirus, and then using that modified virus to infect cells cloned from the armyworm insect. Coronavirus spike protein Baculovirus Modified virus The vaccine is made from a stabilized form of the coronavirus spike protein, which is anchored in a lipid nanoparticle and then injected into the body. The purified protein antigens in the vaccine can't replicate and can't cause Covid-19. The vaccine also contains a compound that enhances desired immune system responses to the vaccine. Stabilized spike protein Vaccine-generated antibody response Traditional vaccines use the actual virus to generate an immune response. Novavax's relies on a synthesized version of the coronavirus's outer spike proteins, which are what antibodies use to recognize the virus. Coronavirus spike protein The vaccine is made from a stabilized form of the coronavirus spike protein, which is anchored in a lipid nanoparticle and then injected into the body. Stabilized spike protein Scientists make the protein by genetically modifying an unrelated insect virus, a baculovirus, and then using that modified virus to infect cells cloned from the armyworm insect. Baculovirus Modified virus The purified protein antigens in the vaccine can't replicate and can't cause Covid-19. The vaccine also contains a compound that enhances desired immune system responses to the vaccine. Vaccine-generated antibody response
+
+Novavax started its late-stage, or Phase 3, trial of the Covid-19 vaccine in late December. Federal agencies including the National Institutes of Health provided funding for the trial.
+
+About two-thirds of the study volunteers received the vaccine in two doses, three weeks apart, while one-third received a placebo.
+
+Researchers kept track of how many people in each group contracted Covid-19 with symptoms, starting seven days after their second injection.
+
+The company reported results in a press release, and the data haven’t been vetted by outside experts. Novavax said it plans to submit the results to a peer-reviewed publication.
+
+Researchers identified 77 cases of mild to severe Covid-19 among all study subjects between January and April. Of these, 14 were among those who had received the vaccine, and 63 among those who had gotten a placebo.
+
+Novavax said all cases of Covid-19 among vaccinated people in the study were mild, and none met the criteria for moderate and severe, including deaths and hospitalizations.
+
+By comparison, among the 63 cases in the placebo group, 10 were moderate and four were severe, findings that led Novavax to conclude that the vaccine was 100% effective against moderate and severe Covid-19.
+
+“The data are terrific,” said Dr. Kathleen Neuzil, professor of vaccinology at the University of Maryland School of Medicine. “This is great news for the world, given the desperate need for more vaccines. It also provides another option in the U.S. if boosters are needed, and for children, as those trials are in progress.”
+
+The trial coincided with the spread in the U.S. of the alpha variant of the coronavirus, first identified in the U.K. The highly transmissible strain became the predominant strain circulating in the U.S.
+
+Novavax sequenced the viruses found in 54 of the 77 cases of symptomatic Covid-19. Of these sequenced cases, 65% were the alpha strain or other variants of concern, the company said.
+
+Researchers label a strain as a variant of concern if there is evidence it is more contagious, produces more severe disease or is better able to evade drugs or vaccines.
+
+Another 17% of the sequenced cases were variants of interest, strains that are generally less prevalent than the variants of concern but which public-health authorities are monitoring.
+
+Novavax said that the vaccine was 93.2% effective combined against the variants of concern and variants of interest in the study.
+
+There were only a handful of Covid-19 cases among study subjects caused by certain other variants including those that were first identified in Brazil and India, named gamma and delta, respectively.
+
+Because the numbers were so small, Novavax wasn’t able to conclude how its vaccine performed against those variants.
+
+The most common side effects after vaccination, Novavax said, were injection-site pain and tenderness, fatigue, headache and muscle pain. The rates of those side effects were generally higher after the second dose.
+
+Novavax said the injection site reactions generally lasted less than three days and the other symptoms less than two days. The rate of serious and severe adverse events were low and balanced between the vaccine and placebo groups, the company said.
+
+One challenge conducting the study, Novavax said, was the availability of authorized vaccines. Study subjects, particularly older adults, who received a placebo began to drop out to get one of the authorized vaccines.
+
+To stem the tide of dropouts, Novavax in April began to provide its vaccine to those who had received a placebo in the study.
+
+In all, about 5,000 people dropped out of the study, Novavax said, meaning the Covid-19 cases that were used to determine efficacy occurred among the remaining 25,000 study subjects, Dr. Glenn said.
+
+Covid-19 Vaccines Related coverage, selected by the editors
+
+Write to Peter Loftus at peter.loftus@wsj.com
+
+
+=======
+
+
+URL : https://eu.usatoday.com/story/news/world/2021/06/14/vladimir-putin-refuses-guarantee-alexei-navalnys-safety-prison/7682827002/
+
+
+=======
+Title:Ahead of Biden meeting, Putin won't guarantee opposition leader Alexei Navalny will leave prison alive
+Texte
+Ahead of Biden meeting, Putin won't guarantee opposition leader Alexei Navalny will leave prison alive
+
+Show Caption Hide Caption WH issues warning to Russia over Navalny's health The White House issued a stark warning to Russia Monday regarding the deteriorating health of opposition leader Alexei Navalny. Press secretary Jen Psaki said there would be "consequences" for Moscow if Navalny dies. (April 19) AP
+
+WASHINGTON – Russian President Vladimir Putin said he could not guarantee opposition leader Alexei Navalny would leave prison alive and denied ordering an assassination attempt on the anti-corruption crusader.
+
+Putin's remarks, made in an interview with NBC News that aired in part on Monday, mark a fresh provocation from the Russian autocrat as he prepares to sit down with U.S. President Joe Biden for a high-stakes summit this week.
+
+The two leaders will meet June 16 in Geneva, Switzerland, amid escalating tensions over the Kremlin's cyberattacks and election interference in the U.S. and Putin's efforts to stifle dissent inside Russia.
+
+More: China, Russia, cyberattacks and climate: What to know about NATO summit
+
+Navalny, an activist and one of Putin's fiercest critics, returned to Russia from Germany in January after recovering from poisoning with a nerve agent. He was detained shortly after his arrival in Moscow and sentenced to two years and eight months in prison for violating the terms of his probation while he was treated abroad.
+
+Navalny initially went on a hunger strike, and his allies say he came close to death before ending his strike on the advice of doctors.
+
+Asked if he could guarantee Navanly would leave prison alive, Putin claimed he had no say over the matter.
+
+"Look, such decisions in this country are not made by the president," Putin said.
+
+Pressed on Navalny's status, Putin said: "He will not be treated any worse than anybody else."
+
+Navalny's case is likely to be one of many flashpoints between Biden and Putin during Wednesday's meeting.
+
+The U.S. intelligence community has determined with "high confidence" that Russia's Federal Security Service used the nerve agent Novichok to poison Navalny last August. The Biden administration imposed sanctions on Russia in the wake of that finding.
+
+Putin has denied any involvement in the attack on Navalny, a position he repeated to NBC.
+
+"We don't have this kind of habit of assassinating anybody," Putin said when pressed on Navalny's poisoning.
+
+Related: Poisoning nearly killed Alexei Navalny. Now, Biden is sanctioning Putin allies in Russia
+
+
+=======
+
+
+URL : https://seekingalpha.com/news/3706075-jpmorgans-ready-for-more-inflation-jamie-dimon-tells-investors
+
+
+=======
+Title:JPMorgan's ready for more inflation, Jamie Dimon tells investors (NYSE:JPM)
+Texte
+Javascript is Disabled
+
+Your current browser configuration
+
+is not compatible with this site.
+
+
+=======
+
+
+URL : https://edition.cnn.com/2021/06/14/politics/china-nuclear-reactor-leak-us-monitoring/index.html
+
+
+=======
+Title:Exclusive: US assessing reported leak at Chinese nuclear power facility
+Texte
+(CNN) The US government has spent the past week assessing a report of a leak at a Chinese nuclear power plant, after a French company that part owns and helps operate it warned of an "imminent radiological threat," according to US officials and documents reviewed by CNN.
+
+The warning included an accusation that the Chinese safety authority was raising the acceptable limits for radiation detection outside the Taishan Nuclear Power Plant in Guangdong province in order to avoid having to shut it down, according to a letter from the French company to the US Department of Energy obtained by CNN.
+
+Despite the alarming notification from Framatome, the French company, the Biden administration believes the facility is not yet at a "crisis level," one of the sources said.
+
+While US officials have deemed the situation does not currently pose a severe safety threat to workers at the plant or Chinese public, it is unusual that a foreign company would unilaterally reach out to the American government for help when its Chinese state-owned partner is yet to acknowledge a problem exists. The scenario could put the US in a complicated situation should the leak continue or become more severe without being fixed.
+
+However, concern was significant enough that the National Security Council held multiple meetings last week as they monitored the situation, including two at the deputy level and another gathering at the assistant secretary level on Friday, which was led by NSC Senior Director for China Laura Rosenberger and Senior Director for Arms Control Mallory Stewart, according to US officials.
+
+The Biden administration has discussed the situation with the French government and their own experts at the Department of Energy, sources said. The US has also been in contact with the Chinese government, US officials said, though the extent of that contact is unclear.
+
+The US government declined to explain the assessment but officials at the NSC, State Department and the Department of Energy insisted that if there were any risk to the Chinese public, the US would be required to make it known under current treaties related to nuclear accidents.
+
+Framatome had reached out to the US in order to obtain a waiver that would allow them to share American technical assistance in order to resolve the issue at the Chinese plant. There are only two reasons why this waiver would be granted, and one is an "imminent radiological threat," the same verbiage used in the June 8 memo.
+
+The memo claims the Chinese limit was increased to exceed French standards, yet it remains unclear how that compares to US limits.
+
+"It is not surprising that the French would reach out," according to Cheryl Rofer, a nuclear scientist who retired from Los Alamos National Laboratory in 2001. "In general, this sort of thing is not extraordinary, particularly if they think the country they are contacting has some special ability to help."
+
+"But China likes to project that everything is just fine, all the time," she added.
+
+The US could give permission for Framatome to provide the technical assistance or support to help resolve the issue, but it is the Chinese government's decision whether the incident requires shutting down the plant completely, the documents obtained by CNN indicate.
+
+Ultimately, the June 8 request for assistance from Framatome is the only reason why the US became involved in the situation at all, multiple sources told CNN.
+
+However, the Taishan Nuclear Power Plant published a statement on its website Sunday night local time, maintaining that environmental readings for both the plant and its surrounding area were "normal."
+
+The two nuclear reactors in Taishan are both operational, the statement said, adding that Unit 2 had recently completed an "overhaul" and "successfully connected to the grid on June 10, 2021." The statement did not define why or how the plant was overhauled.
+
+"Since it was put into commercial operation, the Taishan Nuclear Power Plant has strictly controlled the operation of the units in accordance with operating license documents and technical procedures. All operating indicators of the two units have met the requirements of nuclear safety regulations and power plant technical specifications," the statement noted.
+
+In a separate statement Friday, hours after CNN first reached out for comment, Framatome acknowledged the company "is supporting resolution of a performance issue with the Taishan Nuclear Power Plant in Guangdong Province, China."
+
+"According to the data available, the plant is operating within the safety parameters. Our team is working with relevant experts to assess the situation and propose solutions to address any potential issue," the statement added.
+
+Framatome would not directly address the content of the letter to the Department of Energy when asked by CNN.
+
+The letter comes as tensions between Beijing and Washington remain high and as G7 leaders met this weekend in the United Kingdom with China an important topic of discussion. There are no indications the reports of a leak were discussed at a high level at the summit.
+
+French utility company Electrictie de France (EDF) said in a statement it has been informed of an increase concentration of "noble gases in the primary circuit" of reactor number one of the Taishan nuclear power plant.
+
+EDF holds a 30% stake in the company with Chinese state energy company China General Nuclear Power Group in TNPJVC, which owns and operates the power plant in southern China.
+
+EDF says "the presence of certain noble gases in the primary circuit is a known phenomenon, studied and provided for in the reactor operating procedures," but did not elaborate on gas levels.
+
+CNN has reached out to the Chinese authorities in Beijing and Guangdong province, where the plant is located, and the Chinese embassy in Washington, DC. None have responded directly, though China is amidst a three-day national holiday that runs through the end of Monday.
+
+A warning from a French nuclear company
+
+The issue first emerged when Framatome, a French designer and supplier of nuclear equipment and services that was contracted to help construct and operate the Chinese-French plant, reached out to the US Department of Energy late last month informing them of a potential issue at the Chinese nuclear plant.
+
+The company, mainly owned by EDF, the French utility company, then submitted an operational safety assistance request on June 3, formally asking for a waiver that would allow them to address an urgent safety matter, to the Department of Energy, warning American officials that the nuclear reactor is leaking fission gas.
+
+The company followed up with DOE on June 8 asking for an expedited review of their request, according to a memo obtained by CNN.
+
+"The situation is an imminent radiological threat to the site and to the public and Framatome urgently requests permission to transfer technical data and assistance as may be necessary to return the plant to normal operation," read the June 8 memo from the company's subject matter expert to the Energy Department.
+
+Framatome reached out to the US government for assistance, the document indicates, because a Chinese government agency was continuing to increase its limits on the amount of gas that could safely be released from the facility without shutting it down, according to the documents reviewed by CNN.
+
+When asked by CNN for comment, the Energy Department did not directly address the memo's claim that China was raising the limits.
+
+In the June 8 memo, Framatome informed DOE the Chinese safety authority has continued to raise regulatory "off-site dose limits." It also says the company suspects that limit might be increased again as to keep the leaking reactor running despite safety concerns for the surrounding population.
+
+"To ensure off-site dose limits are maintained within acceptable bounds to not cause undue harm to the surrounding population, TNPJVC (operator of Taishan-1) is required to comply with an regulatory limit and otherwise shut the reactor down if such a limit is exceeded," the June 8 memo reads.
+
+It notes that this limit was established at a level consistent with what is dictated by the French safety authority, but "due to the increasing number of failures," China's safety authority, the National Nuclear Safety Administration (NNSA) has since revised the limit to more than double the initial release, "which in turn increases off-site risk to the public and on-site workers."
+
+As of May 30, the Taishan reactor had reached 90% of the allegedly revised limit, the memo adds, noting concerns the plant operator may be "petitioning the NNSA to further increase the shutdown limit on an exigent basis in an effort to keep running which in turn would continue to increase the risk to the off-site population and the workers at the plant site."
+
+The NNSA is China's nuclear safety regulatory authority. It oversees the implementation of safety standards at facilities like Taishan.
+
+The US State Department came into possession of the June 8 letter and immediately began engaging with interagency partners and with the French government, State Department officials said.
+
+Over the course of 48-72 hours, the US government has been in repeated contact with French officials and US technical experts at DOE, State Department officials said, noting that this flurry of activity was due to the June 8 letter.
+
+Subsequently, there were several urgent questions for the French government and Framatome, they added. CNN has reached out to the French embassy in Washington for comment.
+
+Still, Rofer, the retired nuclear scientist, warns that a gas leak could indicate bigger problems.
+
+"If they do have a gas leak, that indicates some of their containment is broken," Rofer said. "It also argues that maybe some of the fuel elements could be broken, which would be a more serious problem."
+
+"That would be a reason for shutting down the reactor and would then require the reactor to be refueled," Rofer told CNN, adding that removing the fuel elements must be done carefully.
+
+For now, US officials do not think the leak is at "crisis level," but acknowledge it is increasing and bears monitoring, the source familiar with the situation told CNN.
+
+While there is a chance the situation could become a disaster, US officials currently believe it is more likely that it will not become one, the source added.
+
+China has expanded its use of nuclear energy in recent years, and it represents about 5% of all power generated in the country. According to China Nuclear Energy Association, there were 16 operational nuclear plants with 49 nuclear reactors in China as of March 2021, with the total generation capacity of 51,000 megawatts.
+
+The Taishan plant is a prestige project built after China signed a nuclear electricity generation agreement with Électricité de France, which is mainly owned by the French government. The construction of the plant started in 2009, and the two units started generating electricity in 2018 and 2019, respectively
+
+The city of Taishan has a population of 950,000 and is situated in the southeast of the country in Guangdong province, which is home to 126 million residents and has a GDP of $1.6 trillion, comparable to that of Russia and South Korea.
+
+CORRECTION: A previous version of this story incorrectly described the National Nuclear Safety Administration (NNSA). It is China's nuclear safety regulatory authority.
+
+
+=======
+
+
+URL : https://www.ft.com/content/f454033a-9975-4efd-92eb-9cf63306af7f
+
+
+=======
+Title:Subscribe to read
+Texte
+Make informed decisions with the FT
+
+Keep abreast of significant corporate, financial and political developments around the world. Stay informed and spot emerging risks and opportunities with independent global reporting, expert commentary and analysis you can trust.
+
+
+=======
+
+
+URL : https://www.nasdaq.com/articles/bitcoin-climbs-near-%2440000-after-musk-says-tesla-could-use-it-again-2021-06-14
+
+
+=======
+Title:Bitcoin climbs near $40,000 after Musk says Tesla could use it again
+Texte
+By Tom Wilson and Tom Westbrook
+
+LONDON/SINGAPORE, June 14 (Reuters) - Bitcoin climbed to shy of $40,000 on Monday, after yet another weekend of price swings following tweets from Tesla boss Elon Musk, who fended off criticism over his market influence and said Tesla sold bitcoin but may resume transactions using it.
+
+Bitcoin has gyrated to Musk's views for months since Tesla announced a $1.5 billion bitcoin purchase in February and said it would take the cryptocurrency in payment. He later said the electric car maker would not accept bitcoin due to concerns over how mining the currency requires high energy use and contributes to climate change.
+
+"When there's confirmation of reasonable (~50%) clean energy usage by miners with positive future trend, Tesla will resume allowing Bitcoin transactions," Musk said on Twitter on Sunday.
+
+Bitcoin BTC=BTSPrallied more than 9% after that message, breaking above its 20-day moving average, and climbed further in Asia to hit $39,838.92.
+
+"Musk's words caused bitcoin to surge," said Simon Peters, market analyst at eToro.
+
+It was last up 0.5% at $39,189, straining to escape the relatively tight trading range of this month.
+
+The market was also supported by software company and major bitcoin-backer MicroStrategy MSTR.O raising half a billion dollars to buy bitcoin, said Bobby Ong, co-founder of crypto analytics website CoinGecko.
+
+Bitcoin is up about a third this year but has collapsed from a record peak above $60,000 amid a regulatory crackdown in China and Musk's apparently wavering enthusiasm for it. Telsa TSLA.O stock is down about 30% since the company's bitcoin purchase.
+
+Musk's tweet was made in response to an article based on remarks from Magda Wierzycka, head of cybersecurity firm Syngia SYGJ.J, who in a radio interview last week accused him of "price manipulation" and selling a "big part" of his exposure.
+
+"This is inaccurate," Musk said. "Tesla only sold ~10% of holdings to confirm BTC could be liquidated easily without moving market."
+
+Musk had tweeted in May that Tesla "will not be selling any bitcoin" and "has not sold any bitcoin," but investors are keenly awaiting Tesla's next earnings update - due next month - for any disclosure of changes to its position.
+
+Musk has taken issue with the vast computing power required to process bitcoin transactions and in early June posted messages appearing to lament a breakup with bitcoin.
+
+(Reporting by Tom Westbrook in Singapore and Tom Wilson in London; Editing by Jacqueline Wong and Chizu Nomiyama)
+
+((tom.westbrook@tr.com; +65 6973 8284;))
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+
+=======
+
+
+Redirection error : with this 
+         url       : https://finance.yahoo.com/news/stock-market-news-live-updates-june-14-2021-113039717.html
+         trimmedurl: finance.yahoo.com/news/stock-market-news-live-updates-june-14-2021-113039717.html
+         res url   : https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_38d22245-86b2-40a5-a848-aef2ffb776af
+         tr resurl : consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_38d22245-86b2-40a5-a848-aef2ffb776af
+**********************************************
+URL : https://www.morningstar.com/articles/1042863/morningstar-awards-for-investing-excellence-outstanding-portfolio-manager-nominees
+
+
+=======
+Title:Morningstar Awards for Investing Excellence--Outstanding Portfolio Manager Nominees
+Texte
+Today, Morningstar named four nominees for the 2021 Morningstar Awards for Investing Excellence--Outstanding Portfolio Manager: J.P. Morgan's Jeffrey Geller, BlackRock's Rick Rieder, Baird's Mary Ellen Stanek, and Fidelity's Joel Tillinghast. The winner, alongside the recipients of the Exemplary Stewardship and Rising Talent awards, will be announced in late June.
+
+The candidates have delivered exceptional long-term performance while demonstrating shareholder alignment, courage in their convictions, and clear investment skill. Morningstar analysts pick nominees from investment strategies that earn Morningstar Analyst Ratings of Silver or Gold for at least one vehicle or share class. These nominees have navigated various market cycles over their tenures and remain among the best in their respective asset classes. They also invest significant sums alongside their strategies' investors.
+
+Here's more detail about each nominee.
+
+Jeffrey Geller, J.P. Morgan Asset Management
+
+In his 44 years in the industry and 16 years at J.P. Morgan Asset Management, Geller has demonstrated tactical acumen and standout leadership. His rigorous, high-conviction process and topnotch resources propelled JPMorgan Global Allocation (GAOSX), the firm's purest play on its tactical allocation views, to top-quintile returns in the world allocation Morningstar Category over his 10-year tenure through May 2021.
+
+The approach doesn't have dedicated strategic allocations besides keeping at least 40% in non-U.S. securities, so it relies heavily on Geller's tactical moves. They've paid off: The fund has beaten its typical rival in every rolling three-year period on his watch.
+
+Geller's contributions extend beyond this strategy. As J.P. Morgan's CIO of multi-asset solutions in the United States, he helps oversee the highly collaborative, nearly $300 billion global asset-allocation behemoth. In this role, Geller determines the firm's outlook with a group of senior firm leaders. This outlook influences the allocation and portfolio manager decisions of every portfolio in J.P. Morgan's multi-asset group, including the Gold-rated JPMorgan SmartRetirement Blend target-date series. Overall, the tactical signals have added 0.6 percentage points each year on average since Geller took over as CIO in 2006, though performance varies fund to fund. Geller also helped grow J.P Morgan's multi-asset investment team to more than 85 people, making it one of the most well-staffed asset-allocation teams investing today.
+
+Rick Rieder, BlackRock
+
+Rieder has built one of the strongest fixed-income platforms in the industry. He joined BlackRock in 2009 and became the firm's CIO of global fixed income in 2010. Over the years, Rieder has taken the helm of many strategies, including BlackRock Strategic Income Opportunities (BSIIX) and BlackRock Strategic Global Bond (MAWIX) in 2010 and 2015, respectively, and has provided stable leadership. He and his team focus on diversification and risk management using an exhaustive process of deep market and sector research. Rieder's process draws on a very large and experienced pool of investment professionals across BlackRock's fixed-income group. The managers have portfolio construction latitude on these strategies, but the team's disciplined and thoughtful risk management has kept volatility at bay. Reider's long-term focus, rigorous research, and risk awareness have yielded top-decile risk-adjusted category results (as measured by their Sharpe ratios) over his tenure on both strategies.
+
+More on This Topic Morningstar Awards for Investing Excellence--Rising Talent Nominees
+
+In addition to his role as BlackRock's CIO of global fixed income, Rieder serves as the head of the firm's fundamental fixed-income business and global allocation investment team. He is also a member of BlackRock's global operating committee and chairman of the firmwide BlackRock investment council.
+
+Mary Ellen Stanek, Baird Asset Management
+
+In her more than 21 years at Baird Asset Management, Stanek has stayed true to her disciplined and risk-aware approach, thoughtfully navigating various market environments. Stanek leads four Baird strategies, including Baird Core Plus Bond (BCOIX) and Baird Aggregate Bond (BAGIX), which had top-decile category returns over Stanek's tenure through May 2021, and even more impressive relative risk-adjusted results.
+
+The stability of Stanek's nimble, nine-person portfolio management team speaks to its strength. Her commitment to employee development and the firm's employee-ownership structure foster a tight-knit team culture with little turnover. Stanek has also been proactive in expanding the team's roster and resources as many of the key players on this investment team are later in their careers.
+
+Stanek has exemplified an investors-first mentality. Long before it was the industry norm, Stanek and her team launched these strategies with some of the lowest fees available for actively managed strategies. The low fees ensure the managers don't have to take on more risk to clear their price hurdles and beat their respective benchmarks.
+
+Joel Tillinghast, Fidelity
+
+Since taking the helm in late 1989 through May 2021, Tillinghast shaped Fidelity Low-Priced Stock's (FLPSX) long-term track record to be among the industry's best. He looks for resilient companies with staying power, doesn't chase fads, avoids firms that lack enduring competitive advantages or load up on debt, and scrutinizes executives' integrity and prowess. Though this patient and risk-conscious approach can lag during bull markets, the fund's steady gains, subdued volatility, and impressive downside protection have kept its risk-adjusted results consistently strong, especially during stressed market environments such 2020's pandemic-induced bear market.
+
+As assets under management have grown, Tillinghast has kept the sprawling 800-stock strategy from becoming bland or too much like the benchmark. He has long distinguished the portfolio through its exposure to international markets; its 41% non-U.S. stake as of January 2021 was well above the typical mid-value peer's 6%. A preference for consumer cyclical names and a typically lighter financials stake also help the portfolio stand out from its bogy.
+
+Tillinghast has help. He has access to Fidelity's deep, 100-plus global analyst team and the strategy's five listed comanagers together run around 5% of assets. Those managers have discretion over their respective slices, but they also have Tillinghast's constant guidance. He owns this impressive record.
+
+
+=======
+
+

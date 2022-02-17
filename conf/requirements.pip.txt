@@ -1,0 +1,11 @@
+beautifulsoup4>=4.9.0
+pandas>=1.2.5
+numpy
+transformers==4.3.3
+newspaper3k>=0.2.8
+selenium>=3.141.0
+urllib3>=1.26.5
+nltk
+tensorflow>=2.4.1
+scikit-learn
+torch
